@@ -41,7 +41,7 @@ Here are the projects that actually show what I can do:
 - Features: Create tasks, mark complete, filters  
 - Reason it matters: Improved UI structure and event handling  
 🔗 **Live Demo:** https://nanananny.github.io/task-manager/
-🔗 **Code:** _add link_
+🔗 **Code:** https://github.com/nanananny/task-manager
 
 ---
 
