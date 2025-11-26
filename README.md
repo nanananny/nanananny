@@ -58,7 +58,7 @@ Here are the projects that actually show what I can do:
 - Stack: JavaScript + API  
 - Features: Real-time weather data using an API  
 - Reason it matters: First step into API integration  
-🔗 **Live Demo:** _add link_  
+🔗 **Live Demo:** https://nanananny.github.io/Weather-app/ 
 🔗 **Code:** https://github.com/nanananny/Weather-app
 
 ---
