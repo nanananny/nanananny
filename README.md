@@ -40,7 +40,7 @@ Here are the projects that actually show what I can do:
 - Stack: HTML, CSS, JavaScript  
 - Features: Create tasks, mark complete, filters  
 - Reason it matters: Improved UI structure and event handling  
-🔗 **Live Demo:** _add link_  
+🔗 **Live Demo:** https://nanananny.github.io/task-manager/
 🔗 **Code:** _add link_
 
 ---
