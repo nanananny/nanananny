@@ -31,7 +31,7 @@ Here are the projects that actually show what I can do:
 - Stack: HTML, CSS, JavaScript  
 - Features: Add/delete expenses, stores data in localStorage, clean UI  
 - Reason it matters: Good practice in DOM state handling  
-🔗 **Live Demo:** _add link_  
+🔗 **Live Demo:**  https://nanananny.github.io/expense-tracker/  
 🔗 **Code:** https://github.com/nanananny/expense-tracker
 
 ---
