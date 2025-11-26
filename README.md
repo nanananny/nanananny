@@ -49,7 +49,7 @@ Here are the projects that actually show what I can do:
 - Stack: JavaScript  
 - Features: Rich-text notes, save on reload  
 - Reason it matters: More DOM manipulation + localStorage  
-🔗 **Live Demo:** _add link_  
+🔗 **Live Demo:** https://nanananny.github.io/Notes-app/
 🔗 **Code:** _add link_
 
 ---
