@@ -21,4 +21,4 @@ Aspiring Frontend Developer | Python Learner
 - Python DSA
 
 ## Contact
-📧 Email: YOUR EMAIL
+ Email: kumarathna28@gmail.com
