@@ -32,7 +32,7 @@ Here are the projects that actually show what I can do:
 - Features: Add/delete expenses, stores data in localStorage, clean UI  
 - Reason it matters: Good practice in DOM state handling  
 🔗 **Live Demo:** _add link_  
-🔗 **Code:** _add link_
+🔗 **Code:** https://github.com/nanananny/expense-tracker
 
 ---
 
