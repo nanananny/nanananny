@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rathna Kumar
 
-<!--
-**nanananny/nanananny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer | Python Learner
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Python
+- Data Structures & Algorithms
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Expense Tracker (JavaScript)
+- Task Manager (JavaScript)
+- Notes App (JavaScript)
+- Weather App (JavaScript)
+- Python DSA Codes
+
+## What I'm Learning Now
+- DOM Manipulation
+- CSS Layouts (Flexbox & Grid)
+- Python DSA
+
+## Contact
+📧 Email: YOUR EMAIL
