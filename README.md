@@ -13,7 +13,8 @@ Aspiring Frontend Developer | Python Learner
 - Task Manager (JavaScript)
 - Notes App (JavaScript)
 - Weather App (JavaScript)
-- Python DSA Codes
+- Result Analyzer (Python)
+- Contact Manager (Python)
 
 ## What I'm Learning Now
 - DOM Manipulation
