@@ -77,13 +77,14 @@ Here are the projects that actually show what I can do:
 - Features: Reads student marks, generates pass/fail summary  
 - Reason it matters: Practiced file handling + logic  
 🔗 **Code:** https://github.com/nanananny/Result-Analyzer
+
 ---
 
 ### **📍 Contact Manager (Python)**
 - Stack: Python  
 - Features: Add/view/search contacts  
 - Reason it matters: Understanding basic CRUD logic
-🔗 **Code:** 
+🔗 **Code:** https://github.com/nanananny/Contact-Manager
 
 ---
 
