@@ -32,7 +32,7 @@ Here are the projects that actually show what I can do:
 - Features: A personal portfolio website showcasing my projects 
 - Reason it matters: Good practice in DOM state handling  
 🔗 **Live Demo:**  https://nanananny.github.io/Portfolio/  
-🔗 **Code:** https://github.com/nanananny/expense-tracker
+🔗 **Code:** https://github.com/nanananny/Portfolio
 
 ---
 
