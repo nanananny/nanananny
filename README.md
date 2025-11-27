@@ -27,6 +27,15 @@ Right now, I'm sharpening my JavaScript fundamentals, improving UI design struct
 ## 📌 Projects  
 Here are the projects that actually show what I can do:
 
+### **📍 Portfolio**
+- Stack: HTML, CSS, JavaScript  
+- Features: A personal portfolio website showcasing my projects 
+- Reason it matters: Good practice in DOM state handling  
+🔗 **Live Demo:**  https://nanananny.github.io/expense-tracker/  
+🔗 **Code:** https://github.com/nanananny/expense-tracker
+
+---
+
 ### **📍 Expense Tracker**
 - Stack: HTML, CSS, JavaScript  
 - Features: Add/delete expenses, stores data in localStorage, clean UI  
